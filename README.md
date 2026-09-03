@@ -87,26 +87,20 @@ class SDET:
 </td></tr>
 </table>
 
-<img src="https://img.shields.io/badge/04-GITHUB_ANALYTICS-18275A?style=flat-square&labelColor=BC4B2A" alt=""/>
+<img src="https://img.shields.io/badge/04-GITHUB_ACTIVITY-18275A?style=flat-square&labelColor=BC4B2A" alt=""/>
 
-## GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gunachanthiran&show_icons=true&hide_border=false&border_color=E4E0D7&bg_color=FBFAF7&title_color=18275A&text_color=55556A&icon_color=BC4B2A&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunachanthiran&layout=compact&hide_border=false&border_color=E4E0D7&bg_color=FBFAF7&title_color=18275A&text_color=55556A&langs_count=8&border_radius=10"/>
-</p>
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Gunachanthiran&hide_border=false&border=E4E0D7&background=FBFAF7&stroke=E4E0D7&ring=18275A&fire=BC4B2A&currStreakLabel=18275A&sideLabels=2A3D8F&currStreakNum=0E0E13&sideNums=0E0E13&dates=9292A5&border_radius=10"/>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gunachanthiran&bg_color=FBFAF7&color=18275A&line=BC4B2A&point=2A3D8F&area=true&area_color=18275A&hide_border=false&custom_title=Contribution%20Activity"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gunachanthiran&theme=flat&no-frame=true&column=7&margin-w=4&title_color=18275A"/>
-</p>
+<!-- Stats / top-langs / activity-graph / trophy widgets omitted: those community
+     services (Vercel free tier) were returning 503 / 402 at publish time.
+     To add the stats card back once it's healthy:
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gunachanthiran&show_icons=true&hide_border=false&border_color=E4E0D7&bg_color=FBFAF7&title_color=18275A&text_color=55556A&icon_color=BC4B2A&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunachanthiran&layout=compact&hide_border=false&border_color=E4E0D7&bg_color=FBFAF7&title_color=18275A&text_color=55556A&langs_count=8&border_radius=10"/>
+-->
 
 <img src="https://img.shields.io/badge/05-EXPERIENCE-18275A?style=flat-square&labelColor=BC4B2A" alt=""/>
 
