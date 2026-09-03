@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" font-family="Georgia, 'Times New Roman', serif">
+  <rect width="1000" height="290" fill="#F5F3EE"/>
+  <rect width="1000" height="4" fill="#18275A"/>
+  <g fill="#18275A">
+    <circle cx="120" cy="66" r="2" opacity="0.10"/><circle cx="330" cy="44" r="1.6" opacity="0.08"/>
+    <circle cx="560" cy="84" r="2.2" opacity="0.07"/><circle cx="800" cy="54" r="1.8" opacity="0.09"/>
+    <circle cx="910" cy="150" r="2" opacity="0.06"/><circle cx="200" cy="240" r="1.7" opacity="0.07"/>
+    <circle cx="700" cy="255" r="2" opacity="0.06"/>
+    <line x1="330" y1="44" x2="392" y2="28" stroke="#18275A" stroke-width="1" opacity="0.06"/>
+    <line x1="800" y1="54" x2="740" y2="36" stroke="#18275A" stroke-width="1" opacity="0.06"/>
+  </g>
+  <g font-family="'JetBrains Mono', ui-monospace, monospace">
+    <rect x="60" y="61" width="26" height="1.6" fill="#2A3D8F"/>
+    <text x="98" y="66" font-size="12" letter-spacing="4" fill="#2A3D8F">S D E T</text>
+  </g>
+  <text x="56" y="172" font-size="86" letter-spacing="-2" fill="#0E0E13">Guna<tspan font-style="italic" fill="#18275A">chanthiran</tspan> K</text>
+  <g font-family="'DM Sans', -apple-system, 'Segoe UI', sans-serif" font-size="12.5" letter-spacing="2.4" fill="#55556A">
+    <text x="60" y="216">PLAYWRIGHT + TYPESCRIPT</text>
+    <text x="316" y="216" fill="#C2C2CE">|</text>
+    <text x="334" y="216">PYTHON &#183; JAVA &#183; SELENIUM</text>
+    <text x="622" y="216" fill="#C2C2CE">|</text>
+    <text x="640" y="216">WEB &#183; MOBILE &#183; DESKTOP &#183; API</text>
+  </g>
+  <rect x="60" y="234" width="52" height="3" fill="#BC4B2A"/>
+  <text x="60" y="268" font-style="italic" font-size="16" fill="#242430">Software Development Engineer in Test &#8212; I turn flaky suites into fast, trustworthy release gates.</text>
+</svg>
