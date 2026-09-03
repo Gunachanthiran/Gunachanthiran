@@ -159,7 +159,8 @@ Test automation for global enterprise clients across web, mobile, and desktop pl
 
 | Project | Stack | Highlights |
 |:---|:---:|:---|
-| [Naukri Resume Auto-Updater](https://github.com/Gunachanthiran/Naukri-daily) | `Python` · `Playwright` | Auto-logs in, uploads the latest resume, and captures verification screenshots — a daily manual task fully automated with reusable dynamic selectors. |
+| [Udemy Course Scraper](https://github.com/Gunachanthiran/Udemy-Scrapper) | `Python` · `Selenium` · `BeautifulSoup` · `OpenPyXL` | Extracts course details from an online-courses catalogue and exports them to a formatted Excel workbook — automated browser actions, pagination, structured parsing. [Live](https://udemy-scrapper.vercel.app). |
+| Naukri Resume Auto-Updater | `Python` · `Playwright` | Auto-logs in, uploads the latest resume, and captures verification screenshots — a daily manual task fully automated with reusable dynamic selectors. |
 | LinkedIn Automation &amp; Lead-Generation Bot | `Python` · `Selenium` · `BeautifulSoup` · `Pandas` | Sends personalised connection requests and scrapes profile data; a BeautifulSoup + Pandas pipeline exports structured lead records to Excel. |
 | [Portfolio](https://github.com/Gunachanthiran/gunachanthiran.github.io) | `React` · `Hand-written CSS` | Single-file, no-build personal site — cream/navy design system, canvas particle field, scroll-reveal. |
 
